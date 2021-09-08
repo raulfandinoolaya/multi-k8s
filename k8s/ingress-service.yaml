@@ -16,7 +16,7 @@ spec:
     - hosts: 
         - calcas0731.com
         - www.calcas0731.com
-      secretName: calcas0731-com-tls-tdp7z
+      secretName: calcas0731-com-dtqd2  
   rules:
     - host: calcas0731.com
       http:
